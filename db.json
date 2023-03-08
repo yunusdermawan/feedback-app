@@ -6,24 +6,19 @@
       "text": "This is feedback item 1 coming from backend"
     },
     {
-      "id": 2,
-      "rating": 8,
-      "text": "This is feedback item 2 coming from backend"
-    },
-    {
-      "text": "Adding a new item somehow",
-      "rating": 7,
-      "id": 6
-    },
-    {
-      "text": "Adding again a new item",
+      "text": "We have something new here",
       "rating": 10,
-      "id": 7
+      "id": 2
     },
     {
-      "text": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
-      "rating": 6,
-      "id": 8
+      "text": "We are rating it",
+      "rating": 10,
+      "id": 3
+    },
+    {
+      "text": "We have a new updated  rater",
+      "rating": 9,
+      "id": 4
     }
   ]
 }
